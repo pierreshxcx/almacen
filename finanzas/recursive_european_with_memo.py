@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 12 01:39:16 2018
-
-@author: jesus
-"""
-
 import numpy as np
 
 # Recursion with memoization
