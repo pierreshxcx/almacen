@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 20 09:43:21 2018
-
-@author: jesus
-"""
-
 import numpy as np
 
 # Simple recursion
